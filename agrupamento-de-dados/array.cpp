@@ -84,7 +84,7 @@ arrayStdInt.at[100] // Por causa do método .at isso não funciona, é o jeito c
 
 for (int item : arrayStdInt) {} // com array da std, eu posso utilizar esse estilo de for para iteração
 
-// A std ainda vai ter diversos parâmetros para facilitar a manipulação do array
+// A std ainda vai ter diversos métodos para facilitar a manipulação do array
 
 arrayStd.size() // Isso retorna o tamanho do array
 arrayStd.fill(0) // Isso preenche o array com o valor 0
